@@ -32,10 +32,10 @@
    :height: 15px
    :width:  80px
 
-.. |PyValentinaUrl| replace:: http://fabricesalvaire.github.io/PyValentina
+.. |PyValentinaUrl| replace:: https://fabricesalvaire.github.io/Patro/
 
 .. |PyValentinaHomePage| replace:: PyValentina Home Page
-.. _PyValentinaHomePage: http://fabricesalvaire.github.io/PyValentina
+.. _PyValentinaHomePage: https://fabricesalvaire.github.io/Patro/
 
 .. |PyValentinaDoc| replace:: PyValentina Documentation
 .. _PyValentinaDoc: http://pyvalentina.readthedocs.org/en/latest
